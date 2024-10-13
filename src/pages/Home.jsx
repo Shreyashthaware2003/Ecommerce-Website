@@ -193,7 +193,7 @@ function Home() {
                         </div>
                     </div>
                     <div>
-                        <img className='h-auto w-[75rem]' src="public/heroSection.svg" alt="Hero Section" />
+                        <img className='h-auto w-[75rem]' src="heroSection.svg" alt="Hero Section" />
                     </div>
                 </div>
 
